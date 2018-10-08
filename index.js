@@ -1,6 +1,7 @@
 function destructivelyAppendKitten(name){
  return kittens.push("Ralph")
 }
+<<<<<<< HEAD
 function destructivelyPrependKitten(name){
   return kittens.unshift("Bob")
 }
@@ -22,3 +23,6 @@ return kittens.slice(0,2)
 function removeFirstKitten(){
   return kittens.slice(1)
 }
+=======
+function 
+>>>>>>> bed255a0750c0e9db77d662aa522313a85485c03
